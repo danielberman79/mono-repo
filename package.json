@@ -10,6 +10,7 @@
   "dependencies": {
     "node-uuid": "1.4.0",
     "qs": "0.0.6",
+    "ghost": "0.5.9",
     "tap": "^5.8.0"
   }
 }
